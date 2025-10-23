@@ -1,25 +1,26 @@
 [
     {
-        "session": "",
-        "token": "",
-        "api_id": "",
-        "api_hash": "",
-        "workers": 0,
-        "db_uri": "",
-        "db_name": "",
-        "fsubs": [],
-        "db": 0,
-        "auto_del": 0,
+        "session": "teamasr",
+        "token": "8282741852:AAFm9egymw4SLToCUXNYrzFngWDmg1d0_vA",
+        "api_id": "22213371",
+        "api_hash": "a57a2a33c2e06c8a8a42ded07fbd32b9",
+        "workers": 2,
+        "db_uri": "mongodb+srv://aqua_san:Rubystar@aqua.lyjrpf5.mongodb.net/?retryWrites=true&w=majority&appName=Aqua",
+        "db_name": "Aqua",
+        "fsubs": [-1002553217267],
+        "db": -1003078868154,
+        "auto_del": 300,
         "messages": {
-            "START": "",
-            "FSUB": "",
+            "START": "›› ʜᴇʏᴀ!! \n\nɪ ᴀᴍ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ, ɪ ᴄᴀɴ sᴛᴏʀᴇ ᴘʀɪᴠᴀᴛᴇ ғɪʟᴇs ɪɴ sᴘᴇᴄɪғɪᴇᴅ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴏᴛʜᴇʀ ᴜsᴇʀs ᴄᴀɴ ᴀᴄᴄᴇss ɪᴛ ғʀᴏᴍ sᴘᴇᴄɪᴀʟ ʟɪɴᴋ.",
+            "FSUB": "‼️ 𝗝𝗢𝗜𝗡 𝗡𝗢𝗪 ‼️",
             "ABOUT": "",
-            "REPLY": "",
-            "START_PHOTO": "",
-            "FSUB_PHOTO": ""
+            "REPLY": "‼️ 𝗝𝗢𝗜𝗡 𝗡𝗢𝗪 ‼️",
+            "START_PHOTO": "https://graph.org/file/d89a555ef5c41052e6477-00f8d8d56f617562eb.jpg",
+            "FSUB_PHOTO": "https://graph.org/file/fc03b45cc75f43cfedc48-3b0041cfb73cc16ed4.jpg"
         },
-        "admins": [],
+        "admins": [6381677507],
         "disable_btn": false,
         "protect": false
     }
 ]
+
